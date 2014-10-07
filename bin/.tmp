@@ -1,0 +1,2 @@
+../bin   The install stage will export here the binaries resulting from compiling project's tools and tests under
+ 
